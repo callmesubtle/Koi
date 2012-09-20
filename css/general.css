@@ -145,7 +145,7 @@ a.btn-gold:active {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 2px;
-  color: black;
+  color: #333;
 }
 
 .section-heading h2 {
@@ -206,7 +206,7 @@ section p {
   border-radius: 3px 3px 3px 3px;
   text-align: center;
   list-style: none outside none;
-  color: black;
+  color: #333;
   background: none repeat scroll 0 0 #FFF;
   box-shadow: 0 3px 3px rgba(0,0,0,0.1) inset;
 }
@@ -242,7 +242,7 @@ footer h3 {
   font-size: 20px;
   font-weight: 300;
   line-height: 3;
-  color: black;
+  color: #333;
 }
 
 @media screen and (min-device-width:320px)and(max-device-width:800px) {
