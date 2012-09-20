@@ -216,6 +216,18 @@ section p {
   border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 
+/* Section Signup */
+
+.signup {
+  margin: 20px 0 40px;
+}
+
+.signup p {
+  margin: 10px 0 0 0;
+  text-shadow: 1px 1px 1px white;
+  font-size: 12px;
+}
+
 /* Footer */
 
 footer {
