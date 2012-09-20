@@ -231,7 +231,8 @@ section p {
 /* Footer */
 
 footer {
-  background: #ccc;
+  background: #f4f4f4;
+  border-top: 1px solid #eee;
 }
 
 footer .inner-wrap {
