@@ -227,6 +227,12 @@ a.btn-gold:active {
   padding-bottom: 20px;
 }
 
+.centered,
+.centered h1,
+.centered h2 {
+  text-align: center;
+}
+
 .section-heading h1 {
   text-transform: uppercase;
   font-weight: 400;
@@ -282,7 +288,11 @@ section p {
 
 /* Section Extra-Features */
 
-section.extra-features {
+/* Section Testimonials */
+
+ .testimonials h3,
+.testimonials p {
+  text-align: center;
 }
 
 /* Footer */
@@ -302,7 +312,7 @@ footer h3 {
   color: black;
 }
 
-@media screen and (min-device-width : 320px) and (max-device-width : 800px) {
+@media screen and (min-device-width:320px)and(max-device-width:800px) {
   .cta {
     display: none;
   }
