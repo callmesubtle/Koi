@@ -290,9 +290,28 @@ section p {
 
 /* Section Testimonials */
 
- .testimonials h3,
+.testimonials h3,
 .testimonials p {
   text-align: center;
+}
+
+/* Section Pricing */
+
+ .pricing ul {
+  margin: 0;
+  padding: 20px;
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 3px 3px 3px 3px;
+  text-align: center;
+  list-style: none outside none;
+  color: black;
+  background: none repeat scroll 0 0 #FFF;
+  box-shadow: 0 3px 3px rgba(0,0,0,0.1) inset;
+}
+
+.pricing ul li {
+  padding: 1em 0;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 
 /* Footer */
